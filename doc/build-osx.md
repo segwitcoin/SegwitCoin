@@ -29,7 +29,7 @@ Build SegwitCoin Core
 
 1. Clone the segwitcoin source code and cd into `segwitcoin`
 
-        git clone https://github.com/satoshinaka1/segwitcoin
+        git clone https://github.com/segwitcoin/segwitcoin
         cd segwitcoin
 
 2.  Build segwitcoin-core:
